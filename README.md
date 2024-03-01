@@ -1,2 +1,2 @@
-# Minimap : Play it Here ! ! : 
+# Minimap : Play it Here ! ! : https://f4k1ng1t.github.io/Minimap/
  
